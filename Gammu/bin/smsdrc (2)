@@ -1,0 +1,8 @@
+[gammu]
+port = com16:
+connection = at19200
+
+[gammu1]
+port = com5:
+connection = at19200
+
